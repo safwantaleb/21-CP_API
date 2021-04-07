@@ -15,7 +15,7 @@ const UserList = () => {
     <>
       <div className="card__cover">
         <h2 className="app__heading">
-          <span className="app__heading-span">Client's Portfolio</span>
+          <span className="app__heading-span">Clients Portfolio</span>
         </h2>
       </div>
       {users.map((user) => (
