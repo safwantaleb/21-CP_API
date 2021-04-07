@@ -1,0 +1,14 @@
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading img {
+  height: 20cm;
+  width: 20cm;
+}
+body {
+  height: 100vh;
+  background-color: #ece0e8;
+}
